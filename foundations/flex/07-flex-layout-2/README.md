@@ -33,3 +33,13 @@ Note: The emojis may instead show up as one or several text symbols (e.g. &#9734
 - The sidebar has 16px padding.
 - There is 48px padding around the 'cards' section.
 - The cards are arranged horizontally, but wrap to multiple lines when they run out of room on the page.
+
+Solution Notes:
+- added div elements in index.html to separate website sections
+- added display, flex-direction and justify-content properties to body
+- added font-size, font-weight, display, align, and padding to .header
+- added display, align-items and padding to .footer
+- changed sidebar min-width and item alignment
+- added width, height, overflow, padding and box-sizing to .card
+- added .card-container and properties to align it in the site
+- modified list styling
