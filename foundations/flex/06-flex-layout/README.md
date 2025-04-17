@@ -20,3 +20,11 @@ Flexbox is useful for laying out entire pages as well as the smaller components 
 - The logo, input and buttons are centered in the screen.
 - The buttons have an appropriate amount of padding.
 - There is space between the logo, input and buttons.
+
+Solution Notes:
+- removed default list style and padding
+- added display, flex-direction and justify-content properties to body
+- changed the list text color and decoration
+- added a .content selector and its respective properties to align it in the center of the screen, space it properly and add padding to the buttons. 
+- added selectors for all links, header, footer and list-items to edit styling and location on screen
+- added div elements in index.html to make these changes possible
